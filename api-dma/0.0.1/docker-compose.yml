@@ -1,5 +1,0 @@
-services:
-  dma-api:
-    image: ghcr.io/estudiogallo/dma-api:0.0.1
-    ports:
-      - '8080:8080'
